@@ -1,0 +1,16 @@
+names:
+- Blood Stained Egg
+- Brown Egg
+- Calcium Deposit Egg
+- Dirt Stained Egg
+- White Egg
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: egg-quality-grading-vuuze
+  url: https://universe.roboflow.com/ml-qjb10/egg-quality-grading-vuuze/dataset/2
+  version: 2
+  workspace: ml-qjb10
+test: ../test/images
+train: Egg-Quality-Grading-2/train/images
+val: Egg-Quality-Grading-2/valid/images
